@@ -1,6 +1,6 @@
 ![logo](https://github.com/WahidurRahman77/WahidurRahman77/blob/main/24%20184751.png)
 <h1 align="center">Hi 👋, I'm 𝐖𝐚𝐡𝐢𝐝𝐮𝐫 𝐑𝐚𝐡𝐦𝐚𝐧</h1>
-<h3 align="center">A passionate frontend programmer from Bangladesh</h3>
+<h3 align="center">A passionate frontend programmer from Bangladesh.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wahidurrahman77&label=Profile%20views&color=0e75b6&style=flat" alt="wahidurrahman77" /> </p>

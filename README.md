@@ -1,4 +1,3 @@
-![logo](https://github.com/WahidurRahman77/WahidurRahman77/blob/main/24%20184751.png)
 
 <h1 align="center">Hi 👋, I'm 𝐖𝐚𝐡𝐢𝐝𝐮𝐫 𝐑𝐚𝐡𝐦𝐚𝐧</h1>
 <h3 align="center">A passionate frontend programmer from Bangladesh.</h3>
